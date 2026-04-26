@@ -7,7 +7,7 @@
    width="2500"
    height="2500"
    viewBox="0 0 2500 2500"
-   sodipodi:docname="credsis-nome.svg"
+   sodipodi:docname="credsis-nome-completo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -41,7 +41,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,136)">
     <g
        id="g10"
-       transform="matrix(0.64786249,0,0,0.64786249,6.6364513,-1082.2231)">
+       transform="matrix(0.61546957,0,0,0.61546957,6.6530274,-1049.3168)">
       <path
          d="M 508.785,1015.85 752.137,769.777 c -174.219,57.606 -337.149,55.953 -489.742,0 l 246.39,246.073"
          style="fill:#fbc707;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -53,6 +53,15 @@
       <g
          id="g16"
          transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.968779,0,0,-1,87,15.6285)"
+           style="font-variant:normal;font-weight:normal;font-size:14.0511px;font-family:Humanist521BT;-inkscape-font-specification:Humanist521BT-Roman;writing-mode:lr-tb;fill:#00a650;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20"><tspan
+             sodipodi:role="line"
+             id="tspan18"
+             x="0"
+             y="0">Sistema de Crédito Cooperativo</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.916037,0,0,-1,107.697,35.468)"
